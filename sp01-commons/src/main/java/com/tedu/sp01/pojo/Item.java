@@ -3,21 +3,21 @@ package com.tedu.sp01.pojo;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-//ÕâÊÇÒ»¸ö²âÊÔ3
-//u¸øiuºói¾Í¡¾½¨ê±avc
+//è¿™æ˜¯ä¸€ä¸ªæµ‹è¯•3
+//uç»™iuåiå°±ã€å»ºç“¯avc
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
-	//±àºÅ
+	//ç¼–å·
 	private Integer id;
-	//Ãû×Ö
+	//åå­—
 	private String name;
 	
 	private Integer number;
 
 //1111111111111111
-
+//22222222222
 
 }
 
